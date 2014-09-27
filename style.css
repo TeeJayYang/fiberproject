@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-Sep-2014, 11:04:56 AM
+    Author     : Xcelsis
+*/
+body {
+    font-family: "Calibri";
+    font-size: 14px;
+    margin-left:auto;
+    background-image: url('clouds.jpg');    
+}
+
+p{
+    font-family: "Arial";
+    color: white
+    
+}
+
+h1{
+    font-size: 35px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    background-color: aliceblue;
+}
+hr{
+    height: 3px;
+    background-color: red;
+    margin-top: -12px;
+}
+img{
+    float:right;
+    border: 2px solid red;
+}
+a:link{color:yellow}
+a:hover{color:white}
+a:visited{color:springgreen}
