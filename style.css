@@ -10,14 +10,16 @@ and open the template in the editor.
 body {
     font-family: "Calibri";
     font-size: 14px;
-    margin-left:auto;
-    background-image: url('clouds.jpg');    
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('clouds.jpg');
+    width: 70%;
 }
 
 p{
     font-family: "Arial";
-    color: white
-    
+    color: white;
+    width: auto;
 }
 
 h1{
@@ -32,8 +34,9 @@ hr{
     margin-top: -12px;
 }
 img{
-    float:right;
+    float: right;
     border: 2px solid red;
+    
 }
 a:link{color:yellow}
 a:hover{color:white}
